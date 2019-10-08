@@ -1,0 +1,22 @@
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//header
+@import 'header';
+@import 'about';
+
+.h-screen {
+    height: 100vh;
+}
+
+//Register
+.up {
+	margin-top: 6rem;
+}
